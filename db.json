@@ -4,19 +4,19 @@
       "id": 1,
       "name": "Aloe",
       "image": "./images/aloe.jpg",
-      "price": 15.99
+      "price": "21.89"
     },
     {
       "id": 2,
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
-      "price": 25.98
+      "price": "12.00"
     },
     {
       "id": 3,
       "name": "Pilea peperomioides",
       "image": "./images/pilea.jpg",
-      "price": 5.99
+      "price": "1.23"
     },
     {
       "id": 4,
@@ -28,7 +28,7 @@
       "id": 5,
       "name": "Jade",
       "image": "./images/jade.jpg",
-      "price": 10.37
+      "price": "15.00"
     },
     {
       "id": 6,
@@ -45,20 +45,8 @@
     {
       "name": "New Aloe",
       "image": "./images/aloe.jpg",
-      "price": "15.99",
+      "price": "11.43",
       "id": 8
-    },
-    {
-      "name": "New Aloe",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "price": "15.01",
-      "id": 9
-    },
-    {
-      "name": "New Aloe",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "price": "15.01",
-      "id": 10
     }
   ]
 }
